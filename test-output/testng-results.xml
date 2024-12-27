@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-27T15:08:26 IST" name="Default suite" finished-at="2024-12-27T15:08:37 IST" duration-ms="11798">
+    <groups>
+    </groups>
+    <test started-at="2024-12-27T15:08:26 IST" name="Default test" finished-at="2024-12-27T15:08:37 IST" duration-ms="11798">
+      <class name="org.symb.SeleniumTask">
+        <test-method is-config="true" signature="browserLaunchh()[pri:0, instance:org.symb.SeleniumTask@53ce1329]" started-at="2024-12-27T15:08:26 IST" name="browserLaunchh" finished-at="2024-12-27T15:08:27 IST" duration-ms="1755" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserLaunchh -->
+        <test-method signature="TC001()[pri:0, instance:org.symb.SeleniumTask@53ce1329]" started-at="2024-12-27T15:08:27 IST" name="TC001" finished-at="2024-12-27T15:08:27 IST" duration-ms="55" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC001 -->
+        <test-method is-config="true" signature="browserLaunchh()[pri:0, instance:org.symb.SeleniumTask@53ce1329]" started-at="2024-12-27T15:08:27 IST" name="browserLaunchh" finished-at="2024-12-27T15:08:29 IST" duration-ms="1254" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserLaunchh -->
+        <test-method signature="TC002()[pri:1, instance:org.symb.SeleniumTask@53ce1329]" started-at="2024-12-27T15:08:29 IST" name="TC002" finished-at="2024-12-27T15:08:29 IST" duration-ms="152" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC002 -->
+        <test-method is-config="true" signature="browserLaunchh()[pri:0, instance:org.symb.SeleniumTask@53ce1329]" started-at="2024-12-27T15:08:29 IST" name="browserLaunchh" finished-at="2024-12-27T15:08:30 IST" duration-ms="1293" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserLaunchh -->
+        <test-method signature="TC003()[pri:2, instance:org.symb.SeleniumTask@53ce1329]" started-at="2024-12-27T15:08:30 IST" name="TC003" finished-at="2024-12-27T15:08:30 IST" duration-ms="114" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC003 -->
+        <test-method is-config="true" signature="browserLaunchh()[pri:0, instance:org.symb.SeleniumTask@53ce1329]" started-at="2024-12-27T15:08:30 IST" name="browserLaunchh" finished-at="2024-12-27T15:08:32 IST" duration-ms="1253" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserLaunchh -->
+        <test-method signature="TC004()[pri:3, instance:org.symb.SeleniumTask@53ce1329]" started-at="2024-12-27T15:08:32 IST" name="TC004" finished-at="2024-12-27T15:08:32 IST" duration-ms="104" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC004 -->
+        <test-method is-config="true" signature="browserLaunchh()[pri:0, instance:org.symb.SeleniumTask@53ce1329]" started-at="2024-12-27T15:08:32 IST" name="browserLaunchh" finished-at="2024-12-27T15:08:33 IST" duration-ms="1401" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserLaunchh -->
+        <test-method signature="TC005()[pri:4, instance:org.symb.SeleniumTask@53ce1329]" started-at="2024-12-27T15:08:33 IST" name="TC005" finished-at="2024-12-27T15:08:33 IST" duration-ms="452" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC005 -->
+        <test-method is-config="true" signature="browserLaunchh()[pri:0, instance:org.symb.SeleniumTask@53ce1329]" started-at="2024-12-27T15:08:33 IST" name="browserLaunchh" finished-at="2024-12-27T15:08:35 IST" duration-ms="1399" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserLaunchh -->
+        <test-method signature="TC006()[pri:5, instance:org.symb.SeleniumTask@53ce1329]" started-at="2024-12-27T15:08:35 IST" name="TC006" finished-at="2024-12-27T15:08:36 IST" duration-ms="613" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC006 -->
+        <test-method is-config="true" signature="browserLaunchh()[pri:0, instance:org.symb.SeleniumTask@53ce1329]" started-at="2024-12-27T15:08:36 IST" name="browserLaunchh" finished-at="2024-12-27T15:08:37 IST" duration-ms="1292" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserLaunchh -->
+        <test-method signature="TC007()[pri:6, instance:org.symb.SeleniumTask@53ce1329]" started-at="2024-12-27T15:08:37 IST" name="TC007" finished-at="2024-12-27T15:08:37 IST" duration-ms="614" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC007 -->
+      </class> <!-- org.symb.SeleniumTask -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
